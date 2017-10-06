@@ -426,7 +426,7 @@ a.reverse:focus {
 }
 
 #foot_top:hover {
-    background: rgba(8,44,70, 1) url(../../images/map.png) fixed;
+    background: rgba(8,44,70, 1) url(../images/map.png) fixed;
 }
 
 .location-details {
@@ -466,35 +466,35 @@ textarea:focus,
 }
 
 .subbanner-pattern-01 {
-    background: rgba(8,44,70, .98) url(../../images/pattern/subbanner-pat01.png) fixed;
+    background: rgba(8,44,70, .98) url(../images/subbanner-pat01.png) fixed;
 }
 
 .subbanner-pattern-02 {
-    background: rgba(8,44,70, .98) url(../../images/pattern/subbanner-pat02.png) fixed;
+    background: rgba(8,44,70, .98) url(../images/subbanner-pat02.png) fixed;
 }
 
 .subbanner-pattern-03 {
-    background: rgba(8,44,70, .98) url(../../images/pattern/subbanner-pat03.png) fixed;
+    background: rgba(8,44,70, .98) url(../images/subbanner-pat03.png) fixed;
 }
 
 .subbanner-pattern-04 {
-    background: rgba(8,44,70, .98) url(../../images/pattern/subbanner-pat04.png) fixed;
+    background: rgba(8,44,70, .98) url(../images/subbanner-pat04.png) fixed;
 }
 
 .subbanner-pattern-05 {
-    background: rgba(8,44,70, .98) url(../../images/pattern/subbanner-pat05.png) fixed;
+    background: rgba(8,44,70, .98) url(../images/subbanner-pat05.png) fixed;
 }
 
 .subbanner-pattern-06 {
-    background: rgba(8,44,70, .98) url(../../images/pattern/subbanner-pat06.png) fixed;
+    background: rgba(8,44,70, .98) url(../images/subbanner-pat06.png) fixed;
 }
 
 .subbanner-pattern-07 {
-    background: rgba(8,44,70, .98) url(../../images/pattern/subbanner-pat07.png) fixed;
+    background: rgba(8,44,70, .98) url(../images/subbanner-pat07.png) fixed;
 }
 
 .subbanner-pattern-08 {
-    background: rgba(8,44,70, .98) url(../../images/pattern/subbanner-pat08.png) fixed;
+    background: rgba(8,44,70, .98) url(../images/subbanner-pat08.png) fixed;
 }
 
 .case-table tr:nth-child(odd) {

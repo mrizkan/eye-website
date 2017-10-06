@@ -12,7 +12,7 @@
             <ol class="breadcrumb text-left fadeInRight animated">
                 <li><a href="index.htm">Home</a></li>
                 <li><a href="#"> Contact </a></li>
-                <li><a href="#"> Contact us</a></li>
+
             </ol>
         </div>
     </div>

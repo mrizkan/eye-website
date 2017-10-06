@@ -31,7 +31,7 @@
                 <div class="clearfix footer-bottom-strip">
                     <div class="col-md-6">
                         <div class="copyright marbot30-md-xs">
-                            Copyright © 2017 <span class="bold">EYE with US</span>. Powered by <a href="#"> Riz Creations</a>
+                            Copyright © 2017 <span class="bold">EYE with Us</span>. Powered by <a href="https://www.facebook.com/RizkanCreations/"> Riz Creations</a>
                         </div>
                     </div>
                     <div class="col-md-6">

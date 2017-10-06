@@ -59,10 +59,10 @@
     <link rel="stylesheet" href="css/color.css">
     <!-- Custom Css -->
 
-    <link rel="shortcut icon" href="images/favicon.png" />
-    <link rel="apple-touch-icon" href="images/apple_touch_icon.png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple_touch_icon_72x72.png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple_touch_icon_114x114.png" />
+    <link rel="shortcut icon" href="images/logo.png" />
+    <link rel="apple-touch-icon" href="images/logo.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="images/logo.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="images/logo.png" />
 
     <script type="text/javascript" src="js/jquery-1.12.4.js"></script>
 
@@ -104,9 +104,9 @@
                     <!-- Right Section -->
                     <div class="top-bar-right">
                         <ul class="right-top pull-left">
-                            <li><a href="#"><i class="fa fa-clock-o"></i>Mon - Fri : 09:00 - 18:30</a></li>
-                            <li><a href="#"><i class="fa fa-clock-o"></i>Mon - Fri : 09:00 - 18:30</a></li>
-                            <li><a href="http://www.tel.com"><i class="fa fa-phone"></i> +94 778 280 494</a></li>
+                            <li><a href="javascrip: void(0)"><i class="fa fa-clock-o"></i>Mon - Fri : 09:00 - 18:30</a></li>
+                            <li><a href="javascrip: void(0)"><i class="fa fa-clock-o"></i>Mon - Fri : 09:00 - 18:30</a></li>
+                            <li><a href="javascrip: void(0)"><i class="fa fa-phone"></i> +94 778 280 494</a></li>
                         </ul>
 
                     </div>
@@ -121,26 +121,26 @@
             <div class="container">
                 <div class="menu clearfix">
                     <div class="navbar-header">
-                        <a class="navbar-brand" href=""><img src="images/logo.png" alt=" " class="img-responsive center-block"></a>                </div>
+                        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=" " class="img-responsive center-block"></a>                </div>
                     <div class="collapse navbar-collapse js-navbar-collapse text-center">
                         <ul id="sub-nav" class="nav navbar-nav navbar-menu">
                             <li>
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home </a>
+                                <a href="index.php" class="dropdown-toggle">Home </a>
 
                             </li>
                             <li>
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About us </a>
+                                <a href="about-us.php" class="dropdown-toggle">About us </a>
 
                             </li>
                             <li>
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Products </a>
+                                <a href="products.php" class="dropdown-toggle">Products </a>
 
                             </li>
 
 
 
                             <li>
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us </a>
+                                <a href="contact-us.php" class="dropdown-toggle">Contact Us </a>
 
                             </li>
                         </ul>
