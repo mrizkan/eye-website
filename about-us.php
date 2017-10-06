@@ -169,12 +169,12 @@
                     <div class="row clearfix">
                         <div class="col-md-6 marbot40">
                             <div class="grid image-effect2 text-center">
-                                <a href="doctors-single.htm">
+
                                     <figure>
                                         <img src="images/chief-doctors.jpg" alt=" " class="img-responsive">
-                                        <figcaption><i class="fa flaticon-link-1 gallery-icon transition"></i></figcaption>
+
                                     </figure>
-                                </a>                        </div>
+                                                        </div>
                             <div class="panel panel-body marbot0 text-center doctor-details">
                                 <h3 class="marbot0">Steve Williams</h3>
                                 <p class="fontresize marbot20 color-light"><em><span class="fw-500"> Doctor of Ophthalmologist </span></em></p>

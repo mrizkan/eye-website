@@ -6,9 +6,9 @@
 
     <title>Eye with Us</title>
 
-    <meta name="description" content="EyeCare is a premium Eyecare template, which will ideally be suitable for any sites related to Optometrist, Eye Doctor, Medical,  LAsik Eye Surgery Center, Eye Hospital, Opticals, medicine, clinics, doctors, eye clinics and any other sites related to medical  topics or health care OR Eye Care" />
-    <meta name="keywords" content="Eye Care, Eye clinics, Ophthalmologist, Laser Vision, doctors, health, Vision Care, Eye hospital, medical, Optical, LAsik,  Optometrist, Optician, Eyecare Associates" />
-    <meta name="author" content="Accura  Themes" />
+    <meta name="description" content="Eye with Us" />
+    <meta name="keywords" content="Eye with Us" />
+    <meta name="author" content="Rizkan" />
 
     <!-- Google Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700italic,700,900,900italic' rel='stylesheet' type='text/css'>
@@ -104,8 +104,8 @@
                     <!-- Right Section -->
                     <div class="top-bar-right">
                         <ul class="right-top pull-left">
-                            <li><a href="javascrip: void(0)"><i class="fa fa-clock-o"></i>Mon - Fri : 09:00 - 18:30</a></li>
-                            <li><a href="javascrip: void(0)"><i class="fa fa-clock-o"></i>Mon - Fri : 09:00 - 18:30</a></li>
+                            <li><a href="javascrip: void(0)"><i class="fa fa-clock-o"></i>Mon - Fri : 09:00 - 21:00</a></li>
+                            <li><a href="javascrip: void(0)"><i class="fa fa-clock-o"></i>Everyday Break Time 13:30 - 16:30 (Sunday Closed)</a></li>
                             <li><a href="javascrip: void(0)"><i class="fa fa-phone"></i> +94 778 280 494</a></li>
                         </ul>
 
@@ -121,31 +121,31 @@
             <div class="container">
                 <div class="menu clearfix">
                     <div class="navbar-header">
-                        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=" " class="img-responsive center-block"></a>                </div>
+                        <a class="navbar-brand" href="Home"><img src="images/logo.png" alt=" " class="img-responsive center-block"></a>                </div>
                     <div class="collapse navbar-collapse js-navbar-collapse text-center">
                         <ul id="sub-nav" class="nav navbar-nav navbar-menu">
                             <li>
-                                <a href="index.php" class="dropdown-toggle">Home </a>
+                                <a href="Home" class="dropdown-toggle">Home </a>
 
                             </li>
                             <li>
-                                <a href="about-us.php" class="dropdown-toggle">About us </a>
+                                <a href="About-Us" class="dropdown-toggle">About us </a>
 
                             </li>
                             <li>
-                                <a href="products.php" class="dropdown-toggle">Products </a>
+                                <a href="Products" class="dropdown-toggle">Products </a>
 
                             </li>
 
 
 
                             <li>
-                                <a href="contact-us.php" class="dropdown-toggle">Contact Us </a>
+                                <a href="Contact-Us" class="dropdown-toggle">Contact Us </a>
 
                             </li>
                         </ul>
                         <div class="navbar-right nav-right-center">
-                            <a href="#" class="btn btn-type1 btn-sm"> Make an Appointment</a>                  </div>
+                            <a href="Appointment" class="btn btn-type1 btn-sm"> Make an Appointment</a>                  </div>
 
                     </div><!-- /.nav-collapse -->
                 </div>

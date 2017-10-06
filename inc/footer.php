@@ -11,7 +11,7 @@
                 <div class="text-center marbot0 media">
                     <span class="media-left"><i class="fa fa-phone icon-bordered"></i></span>
                         <span class="media-body text-left media-middle">
-                            If you Have Any Questions Call Us On <a href="#"><span class="bold">+94 778 280 494</span></a>
+                            If you Have Any Questions Call Us On <a href="javascript: void(0)"><span class="bold">+94 778 280 494</span></a>
                         </span>
                 </div>
             </div>
@@ -25,8 +25,6 @@
 <footer id="footer">
     <div class="footer">
         <div class="container">
-
-
             <div class="row">
                 <div class="clearfix footer-bottom-strip">
                     <div class="col-md-6">
@@ -37,11 +35,10 @@
                     <div class="col-md-6">
                         <div class="clearfix">
                             <ul class="footer-strip-menu list-unstyled">
-                                <li><a href="">Home</a></li>
-                                <li><a href="">About Us</a></li>
-                                <li><a href="">Services </a></li>
-                                <li><a href="">Products</a></li>
-                                <li><a href="">Contact Us</a></li>
+                                <li><a href="Home">Home</a></li>
+                                <li><a href="About-Us">About Us</a></li>
+                                <li><a href="Products">Products</a></li>
+                                <li><a href="Contact-Us">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>

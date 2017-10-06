@@ -147,7 +147,7 @@
         <div class="row animatedParent animateOnce">
             <div class="col-md-12 fadeInUp animated">
 
-                <form  id="contact_form" class="contact-form-simple" method="post" action="#">
+                <form  id="contact_form" class="contact-form-simple" method="post">
                     <div class="row clearfix">
 
                         <div class="col-md-5">
@@ -190,7 +190,7 @@
 
 <!-- Map Section
 ================================================== -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15842.13934598434!2d79.8576826!3d6.94605835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x87cf7d635e7edb4a!2sCommercial+Bank+Kotahena+Branch!5e0!3m2!1sen!2slk!4v1507264944310" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d821.5864029730557!2d79.90085682915584!3d6.746959331512622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwNDQnNDkuMSJOIDc5wrA1NCcwNS4xIkU!5e1!3m2!1sen!2slk!4v1507279615661" width="100%" height="450" frameborder="0" style="border:0; margin-bottom: -7px" allowfullscreen></iframe>
 <!-- // Map Section
 ================================================== -->
 

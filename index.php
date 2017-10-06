@@ -46,7 +46,7 @@
                              data-speed="1000" data-start="2000"
                              data-easing="Back.easeInOut"
                              data-endspeed="400"
-                             data-endeasing="Back.easeIn" style="z-index: 14;"><a class="btn btn-type1" href="#">Get a Free Consultation</a>                            </div>
+                             data-endeasing="Back.easeIn" style="z-index: 14;"><a class="btn btn-type1" href="Contact-Us">Get a Free Consultation</a>                            </div>
                     </li>
                     <!-- SLIDE  -->
                     <li data-transition="zoomout" data-slotamount="7" data-masterspeed="1000" >
@@ -80,7 +80,7 @@
                              data-speed="1000" data-start="2000"
                              data-easing="Back.easeInOut"
                              data-endspeed="400"
-                             data-endeasing="Back.easeIn" style="z-index: 14;"><a class="btn btn-type1" href="#">Request an Appointment</a>                            </div>
+                             data-endeasing="Back.easeIn" style="z-index: 14;"><a class="btn btn-type1" href="Contact-Us">Request an Appointment</a>                            </div>
                     </li>
 
                     <!-- SLIDE  -->
@@ -114,7 +114,7 @@
                              data-speed="1000" data-start="2000"
                              data-easing="Back.easeInOut"
                              data-endspeed="400"
-                             data-endeasing="Back.easeIn" style="z-index: 14"><a class="btn btn-type1" href="#">Know more about LASIK?</a>                            </div>
+                             data-endeasing="Back.easeIn" style="z-index: 14"><a class="btn btn-type1" href="Products">See Our Products</a>                            </div>
                     </li>
 
                     <!-- SLIDE  -->
@@ -148,7 +148,7 @@
                              data-speed="1000" data-start="2000"
                              data-easing="Back.easeInOut"
                              data-endspeed="400"
-                             data-endeasing="Back.easeIn" style="z-index: 14"><a class="btn btn-type1" href="#">View our Locations</a>                            </div>
+                             data-endeasing="Back.easeIn" style="z-index: 14"><a class="btn btn-type1" href="Contact-Us">View our Locations</a>                            </div>
                     </li>
                 </ul>
                 <div class="tp-bannertimer"></div>
@@ -172,7 +172,7 @@
                 <!-- Section 1 -->
                 <div class="col-md-4 marbot10">
                     <h1>
-                        <span class="fw-normal">Improve your Vision with </span>Our Eye Centers
+                        <span class="fw-normal">Improve your Vision with </span>Eye with Us
                     </h1>
                 </div>
                 <!-- // Section 1 -->
@@ -311,7 +311,7 @@
                         </div>
                         <div class="center-banner-title">& we accept flex spending, accept all type of credit cards</div>
                     </div>
-                    <a href="" class="btn btn-type1 btn-big text-uppercase growIn animated slowest">Schedule your free exam today <i class="fa fa-fw fa-chevron-right"></i></a>
+                    <a href="Contact-Us" class="btn btn-type1 btn-big text-uppercase growIn animated slowest">Schedule your free exam today <i class="fa fa-fw fa-chevron-right"></i></a>
                     <div class="row">
                         <div class="col-md-4 media marbot10">
                             <div class="media-left">

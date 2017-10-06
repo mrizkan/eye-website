@@ -1,0 +1,16 @@
+RewriteEngine On
+
+#identify location
+RewriteBase /eye-website
+
+RewriteRule ^Home$ index.php
+
+RewriteRule ^About-Us$ about-us.php
+
+RewriteRule ^Products$ products.php
+
+RewriteRule ^Contact-Us$ contact-us.php
+
+RewriteRule ^Appointment$ appoinment.php
+
+
